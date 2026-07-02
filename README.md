@@ -1,4 +1,4 @@
-# Age Estimation from Face Images using ResNet-50, DeiT, and Smart Fusion
+# Age Estimation from Face Images using ResNet-50 and DeiT
 
 This repository contains the code sample for my bachelor's thesis project on age estimation from facial images. The project compares convolutional and transformer-based models and then combines their trained feature representations using a smart fusion head.
 
